@@ -1,3 +1,7 @@
+live demo : https://lottery-dapp-sepia.vercel.app/
+the contract is deployed on goerli network, so make sure you are in goerli  network.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
